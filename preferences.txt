@@ -1,0 +1,5 @@
+favorite movie: Harry Potter
+favorite series: friends
+favorite food: cheesecake
+favorite season: spring
+country I want to visit: France
