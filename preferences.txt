@@ -1,5 +1,5 @@
 favorite movie: Harry Potter
-favorite serie: friends
+favorite series: friends
 favorite food: cheesecake
 favorite season: spring
 country I want to visit: France
