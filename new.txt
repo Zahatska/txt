@@ -1,0 +1,21 @@
+
+Zahatska Iryna
+28 y.o.
+ Skills
+•	SDLC and STLC
+•	Software Testing Theory, Types of Testing, Test design techniques
+•	Understanding of Client-Server architecture
+•	Understanding of application vulnerability
+•	Scrum, Kanban, Waterfall
+•	JIRA, MantisBT, Trello
+•	Confluence
+•	Testrail
+•	JSON, XML, YAML
+•	Understanding of CI/CD
+•	Web, Mobile, Desktop testing
+•	REST API testing (Postman, Swagger, Charles)
+•	Chrome/Firefox DevTools
+•	Basic knowledge of HTML / CSS
+•	Basic knowledge in SQL
+•	Basic knowledge of AQA testing (Java, Selenium) link
+
